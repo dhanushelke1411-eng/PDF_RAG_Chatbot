@@ -146,6 +146,3 @@ pip install sentence-transformers
 
 ---
 
-## Author
-
-Niranjan Bhojane
